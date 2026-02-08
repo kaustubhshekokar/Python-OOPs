@@ -11,7 +11,7 @@ class Student:
 
 # Creating unique students
 s1 = Student("Kaustubh", "ENTC", 8.03)
-s2 = Student("Aditya", "CS", 9.5)
+s2 = Student("Aditya", "CS", 6.09)
 
 s1.intro()
 s2.intro()
