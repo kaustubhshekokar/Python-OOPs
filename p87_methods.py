@@ -13,7 +13,7 @@ class Instructor():
         print("HI")
         print(f"Hi,I am {self.nam},I teach {subject}")    
     def follower_count(self,name):
-        self.follower +=1    
+        self.follower +=2   
 
 
 inst1=Instructor("jenny","Ramu")
